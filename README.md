@@ -1,2 +1,2 @@
 # Polaris--Github
-this one is for learning git and github
+This repository is created for learning git and github.
